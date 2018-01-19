@@ -1,0 +1,8 @@
+# Figure files
+*.tif
+*.png
+*.eps
+*.pdf
+
+#sub-directory
+figure
